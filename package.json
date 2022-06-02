@@ -1,0 +1,23 @@
+{
+  "name": "wallaby-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandre-jung/wallaby-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandre-jung/wallaby-demo/issues"
+  },
+  "homepage": "https://github.com/alexandre-jung/wallaby-demo#readme",
+  "dependencies": {
+    "@types/jest": "28.1.0"
+  }
+}
